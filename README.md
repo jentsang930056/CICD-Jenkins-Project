@@ -1,6 +1,9 @@
 # End-to-End Jenkins CI/CD Pipeline Project (Arch)
 ![CompleteCICDProject!](https://lucid.app/publicSegments/view/0c183bd6-73f4-4547-93e1-5246db5e863c/image.png) 
 
+#####Introduction:
+In this project, I set up a complete CI/CD pipeline using Jenkins, GitHub, and Maven for building and deploying an application. I created and configured various virtual machines (VMs) for Jenkins, SonarQube, Nexus, Prometheus, and Grafana, each serving a specific purpose within the pipeline. I integrated tools such as Ansible for deployment automation, and Slack for continuous feedback through notifications. Additionally, I implemented monitoring and alerting with Prometheus and Grafana, and configured Nexus for managing build artifacts. Finally, I tested the pipeline thoroughly to ensure smooth deployment to development, staging, and production environments.
+
 ###### Project ToolBox 🧰
 - [Git](https://git-scm.com/) Git will be used to manage our application source code.
 - [Github](https://github.com/) Github is a free and open source distributed VCS designed to handle everything from small to very large projects with speed and efficiency
